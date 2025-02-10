@@ -19,4 +19,4 @@ def check(repo_url, current_version):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    check("D-I-Projects/diec", "v0.3")
+    check("VelisCore/diec", "v0.3")

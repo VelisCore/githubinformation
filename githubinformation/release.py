@@ -4,4 +4,4 @@ def release_link(name_and_repo, tag):
     return release
 
 if __name__ == "__main__":
-    release_link("D-I-Projects/diec", "v1.0")
+    release_link("VelisCore/diec", "v1.0")

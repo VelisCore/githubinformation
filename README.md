@@ -77,11 +77,11 @@ https://github.com/wfxey
 ```python
 import githubinformation
 
-githubinformation.release.release_link("D-I-Projects/diec", "v1.0")
+githubinformation.release.release_link("VelisCore/diec", "v1.0")
 ```
 ### Output 
 ```bash
-https://github.com/D-I-Projects/diec/releases/tag/v1.0
+https://github.com/VelisCore/diec/releases/tag/v1.0
 ```
 
 <hr>
